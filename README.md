@@ -133,7 +133,9 @@
 <a href="https://www.postgresql.org" target="_blank"> 
      <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=black" />
 </a>
-
+<a href="https://www.influxdata.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/InfluxDB-%23047dd5.svg?&style=for-the-badge&logo=InfluxDB&logoColor=black" />
+</a> 
 <a href="https://redis.io" target="_blank"> 
     <img src="https://img.shields.io/badge/redis-%23d8362f.svg?&style=for-the-badge&logo=redis&logoColor=black" />
 </a> 
