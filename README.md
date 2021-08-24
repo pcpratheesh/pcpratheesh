@@ -44,7 +44,8 @@
 
 <p align="left"> 
 
-**<h4 align="left"> Programming Languages </h4>**
+<!-- **<h4 align="left"> Programming Languages </h4>** -->
+<img src="https://img.shields.io/badge/languages--%23cccc.svg?&style=for-the-badge&logoColor=white" /> 
 
 <a href="https://golang.org" target="_blank"> 
     <img src="https://img.shields.io/badge/go-%236ad7e5.svg?&style=for-the-badge&logo=go&logoColor=white" /> 
@@ -59,10 +60,10 @@
     <img src="https://img.shields.io/badge/nodejs-%235c9954.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 
 </a> 
 
-**<h4 align="left"> Frontend Development </h4>**
-
-
+<!-- **<h4 align="left"> Frontend Development </h4>** -->
+<br>
 <p>
+<img src="https://img.shields.io/badge/Frontend Development--%23cccc.svg?&style=for-the-badge&logoColor=white" /> 
 <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://img.shields.io/badge/bootstrap-%235b4282.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /> 
 </a> 
@@ -86,9 +87,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/js-%23f0db4f.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 </a> 
-</br>
 
-**<h4 align="left"> Backend Development </h4>**
+<!-- **<h4 align="left"> Backend Development </h4>** -->
+<br>
+<p>
+<img src="https://img.shields.io/badge/Backend Development--%23cccc.svg?&style=for-the-badge" /> 
 
 <a href="https://graphql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/graphql-%23e45899.svg?&style=for-the-badge&logo=graphql&logoColor=black" />
@@ -104,16 +107,20 @@
 
 <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://img.shields.io/badge/nginx-%23479a12.svg?&style=for-the-badge&logo=nginx&logoColor=black" />  
-</a> 
-</br>
+</a>
+</p> 
 
-**<h4 align="left"> Mobile App Development </h4>**
+<!-- **<h4 align="left"> Mobile App Development </h4>** -->
+<p>
+<img src="https://img.shields.io/badge/Mobile App Development--%23cccc.svg?&style=for-the-badge" /> 
 
 <a href="https://reactnative.dev/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactnative-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=black" />  
 </a> 
-
-**<h4 align="left"> Databases </h4>**
+</p>
+<!-- **<h4 align="left"> Databases </h4>** -->
+<p>
+<img src="https://img.shields.io/badge/Databases--%23cccc.svg?&style=for-the-badge" /> 
 
 <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-%234bad56.svg?&style=for-the-badge&logo=mongodb&logoColor=black" />  
@@ -133,16 +140,20 @@
 <a href="https://www.elastic.co" target="_blank"> 
    <img src="https://img.shields.io/badge/elasticsearch-%23f05a98.svg?&style=for-the-badge&logo=elastic&logoColor=black" />
 </a> 
+</p>
 
-**<h4 align="left"> Data Visualization </h4>**
+<!-- **<h4 align="left"> Data Visualization </h4>** -->
 
 <p>
+<img src="https://img.shields.io/badge/Data Visualization--%23cccc.svg?&style=for-the-badge" /> 
+
 <a href="https://grafana.com" target="_blank"> 
     <img src="https://img.shields.io/badge/grafana-%23f37d37.svg?&style=for-the-badge&logo=grafana&logoColor=black" />
 </a> 
 </p>
-
-**<h4 align="left"> Devops </h4>**
+<!-- **<h4 align="left"> Devops </h4>** -->
+<p>
+<img src="https://img.shields.io/badge/Devops--%23cccc.svg?&style=for-the-badge" /> 
 
 <a href="https://www.docker.com/" target="_blank"> 
      <img src="https://img.shields.io/badge/docker-%23018bb8.svg?&style=for-the-badge&logo=docker&logoColor=black" /> 
@@ -167,15 +178,20 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://img.shields.io/badge/bash-%231b1b1f.svg?&style=for-the-badge&logo=gnubash&logoColor=white" /> 
 </a> 
+</p>
 
-**<h4 align="left">  Backend as a Service(BaaS)  </h4>**
+<!-- **<h4 align="left">  Backend as a Service(BaaS)  </h4>** -->
 <p>
+<img src="https://img.shields.io/badge/Backend as a Service(BaaS)--%23cccc.svg?&style=for-the-badge" /> 
+
 <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-%236762a6.svg?&style=for-the-badge&logo=heroku&logoColor=white" /> 
 </a> 
 </p>
 
-**<h4 align="left"> Framework </h4>**
+<!-- **<h4 align="left"> Framework </h4>** -->
+<p>
+<img src="https://img.shields.io/badge/Framework--%23cccc.svg?&style=for-the-badge" /> 
 
 <a href="https://codeigniter.com" target="_blank"> 
     <img src="https://img.shields.io/badge/codeigniter-%23ee4535.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" /> 
@@ -184,8 +200,11 @@
 <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/django-%23103a2b.svg?&style=for-the-badge&logo=django&logoColor=white" /> 
 </a> 
+</p>
 
-**<h4 align="left"> Software </h4>**
+<!-- **<h4 align="left"> Software </h4>** -->
+<p>
+<img src="https://img.shields.io/badge/Software--%23cccc.svg?&style=for-the-badge" /> 
 
 <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/figma-%23f97161.svg?&style=for-the-badge&logo=figma&logoColor=black" />
@@ -198,8 +217,10 @@
 <a href="https://postman.com" target="_blank"> 
    <img src="https://img.shields.io/badge/postman-%23fa6b38.svg?&style=for-the-badge&logo=postman&logoColor=white" />
 </a> 
-
-**<h4 align="left">Other**
+</p>
+<!-- **<h4 align="left">Other** -->
+<p>
+<img src="https://img.shields.io/badge/Other--%23cccc.svg?&style=for-the-badge" /> 
 
 <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/git-%23f03d35.svg?&style=for-the-badge&logo=git&logoColor=white" />
@@ -223,7 +244,7 @@
 <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/linux-%23151515.svg?&style=for-the-badge&logo=linux&logoColor=white" />
 </a> 
-   
+</p>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcpratheesh&show_icons=true&locale=en" alt="pcpratheesh" /></p> -->
