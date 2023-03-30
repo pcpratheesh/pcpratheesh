@@ -1,43 +1,28 @@
-<h1 align="center">Hi 👋, I'm PRATHEESH</h1>
-<h3 align="center">Software Engineer | FullStack</h3>
+Hi there, my name is  Pratheesh, and I'm a passionate software developer with a deep love for coding and building amazing things with technology. My journey in the world of software development began at 2016, tinkering with computers and teaching myself how to code. Since then, I've honed my skills and become a proficient programmer, with expertise in several programming languages, including Python, JavaScript, PHP and Golang.
 
-<p align="center">
+I'm constantly seeking new challenges and opportunities to learn and grow as a developer, which is why I'm thrilled to be a part of the GitHub community. For me, GitHub is more than just a platform for hosting code - it's a vibrant community of developers who share my passion for technology and are constantly pushing the boundaries of what's possible.
 
-<a href="https://linkedin.com/in/pratheesh-pc">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:pratheeshpcpalappetta@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/pcpratheesh">
-    <img src="https://img.shields.io/badge/instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+When I'm not writing code, you can usually find me reading up on the latest tech trends, or sharing my knowledge and expertise with others through blogging and mentoring. I believe that technology has the power to transform lives and make the world a better place, and I'm dedicated to using my skills to make a positive impact in the world.
 
-<br>
-<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> 
-<b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> 
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-<!-- 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=pcpratheesh&label=Profile%20views&color=0e75b6&style=flat" alt="pcpratheesh" /> 
-</p> -->
-<p align="left"> 
-    About Me...
-</p>
+Thanks for taking the time to learn a little bit about me! If you'd like to connect or collaborate on a project, feel free to reach out.
 
-✔ 🌱 I’m currently learning **ReactJS, VueJS**
+See me on [Linkedin](https://www.linkedin.com/in/pratheesh-pc/)
 
-✔ 💬 Ask me about **Golang, PHP, Python, Web Development, Web Deployment,AWS**
 
-✔ 📫 How to reach me **pratheeshpcpalappetta@gmail.com**
+Interesting projects I've made:
+- Profanity word filter with golang ([here](https://github.com/pcpratheesh/go-censorword))
+- Prometheus log monitor ([Repo](https://github.com/pcpratheesh/golang-prometheus-example))
+- Slack Connector ([Repo](https://github.com/pcpratheesh/slack-connector))
+- Crypto currency Tracker([Repo](https://github.com/pcpratheesh/crypto-currency-tracker-api
+- Docker Eye - A custom docker monitoring tool - In development
 
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
-</p>
-
+Sample Code snippets
+))
+- Sample code snippet With Golang for "How to connect with influxdb" ([Repo](https://github.com/pcpratheesh/golang-influxdb-example))
+- Sample code snippet with Golang for "Firebase authentication" ([Repo](https://github.com/pcpratheesh/golang-firebase-example))
+- Sample code snippet with Golang for "Kafka interaction" ([Repo](https://github.com/pcpratheesh/golang-kafka-realtime-data-pipline))
+- Sample code snippet with Terraform for "Deploying lambda"([Repo](https://github.com/pcpratheesh/terraform-lambda-deployment-sample))
+- Sample code snippet with Terraform for "Deploying ECS"([Repo](https://github.com/pcpratheesh/terraform-ecs-deployment-sample))
 <br>
 <h2>Tools & Technologies</h2>
 
