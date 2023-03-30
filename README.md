@@ -16,13 +16,12 @@ Interesting projects I've made:
 - Crypto currency Tracker([Repo](https://github.com/pcpratheesh/crypto-currency-tracker-api
 - Docker Eye - A custom docker monitoring tool - In development
 
-Sample Code snippets
-))
-- Sample code snippet With Golang for "How to connect with influxdb" ([Repo](https://github.com/pcpratheesh/golang-influxdb-example))
-- Sample code snippet with Golang for "Firebase authentication" ([Repo](https://github.com/pcpratheesh/golang-firebase-example))
-- Sample code snippet with Golang for "Kafka interaction" ([Repo](https://github.com/pcpratheesh/golang-kafka-realtime-data-pipline))
-- Sample code snippet with Terraform for "Deploying lambda"([Repo](https://github.com/pcpratheesh/terraform-lambda-deployment-sample))
-- Sample code snippet with Terraform for "Deploying ECS"([Repo](https://github.com/pcpratheesh/terraform-ecs-deployment-sample))
+Sample Code snippets 
+- Sample code snippet With Golang for "**Connect with influxdb**" ([Repo](https://github.com/pcpratheesh/golang-influxdb-example))
+- Sample code snippet with Golang for "**Firebase authentication**" ([Repo](https://github.com/pcpratheesh/golang-firebase-example))
+- Sample code snippet with Golang for "**Kafka interaction**" ([Repo](https://github.com/pcpratheesh/golang-kafka-realtime-data-pipline))
+- Sample code snippet with Terraform for "**Deploying lambda**"([Repo](https://github.com/pcpratheesh/terraform-lambda-deployment-sample))
+- Sample code snippet with Terraform for "**Deploying ECS**"([Repo](https://github.com/pcpratheesh/terraform-ecs-deployment-sample))
 <br>
 <h2>Tools & Technologies</h2>
 
