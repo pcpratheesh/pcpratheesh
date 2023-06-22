@@ -10,13 +10,16 @@ See me on [Linkedin](https://www.linkedin.com/in/pratheesh-pc/)
 
 
 Interesting projects I've made:
+- Go Crypto ([Repo](https://github.com/pcpratheesh/gocrypto))
 - Profanity word filter with golang ([here](https://github.com/pcpratheesh/go-censorword))
 - Prometheus log monitor ([Repo](https://github.com/pcpratheesh/golang-prometheus-example))
 - Slack Connector ([Repo](https://github.com/pcpratheesh/slack-connector))
-- Crypto currency Tracker([Repo](https://github.com/pcpratheesh/crypto-currency-tracker-api
+- Crypto currency Tracker([Repo](https://github.com/pcpratheesh/crypto-currency-tracker-api))
 - Docker Eye - A custom docker monitoring tool - In development
 
 Sample Code snippets 
+- Golang -Prometheus Client-Server ([Repo](https://github.com/pcpratheesh/goprom-server-client))
+- Server Sent Event Progressbar([Repo](https://github.com/pcpratheesh/golang-sse-progress-bar))
 - Sample code snippet With Golang for "**Connect with influxdb**" ([Repo](https://github.com/pcpratheesh/golang-influxdb-example))
 - Sample code snippet with Golang for "**Firebase authentication**" ([Repo](https://github.com/pcpratheesh/golang-firebase-example))
 - Sample code snippet with Golang for "**Kafka interaction**" ([Repo](https://github.com/pcpratheesh/golang-kafka-realtime-data-pipline))
