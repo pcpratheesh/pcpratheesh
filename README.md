@@ -10,6 +10,7 @@ See me on [Linkedin](https://www.linkedin.com/in/pratheesh-pc/)
 
 
 Interesting projects I've made:
+- Go Health Check ([Repo](https://github.com/pcpratheesh/go-healthwatch))
 - Go Crypto ([Repo](https://github.com/pcpratheesh/gocrypto))
 - Profanity word filter with golang ([here](https://github.com/pcpratheesh/go-censorword))
 - Prometheus log monitor ([Repo](https://github.com/pcpratheesh/golang-prometheus-example))
