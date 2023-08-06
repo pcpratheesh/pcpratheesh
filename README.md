@@ -10,7 +10,6 @@ See me on [Linkedin](https://www.linkedin.com/in/pratheesh-pc/)
 
 
 Interesting projects I've made:
-- MQTT and Golang ([Repo](https://github.com/pcpratheesh/mqtt-publisher-subscriber-golang))
 - Go Health Check ([Repo](https://github.com/pcpratheesh/go-healthwatch))
 - Go Crypto ([Repo](https://github.com/pcpratheesh/gocrypto))
 - Profanity word filter with golang ([here](https://github.com/pcpratheesh/go-censorword))
@@ -20,6 +19,7 @@ Interesting projects I've made:
 - Docker Eye - A custom docker monitoring tool - In development
 
 Sample Code snippets 
+- MQTT and Golang ([Repo](https://github.com/pcpratheesh/mqtt-publisher-subscriber-golang))
 - Golang -Prometheus Client-Server ([Repo](https://github.com/pcpratheesh/goprom-server-client))
 - Server Sent Event Progressbar([Repo](https://github.com/pcpratheesh/golang-sse-progress-bar))
 - Sample code snippet With Golang for "**Connect with influxdb**" ([Repo](https://github.com/pcpratheesh/golang-influxdb-example))
