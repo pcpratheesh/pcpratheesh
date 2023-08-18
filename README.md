@@ -239,3 +239,11 @@ Sample Code snippets
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcpratheesh&show_icons=true&locale=en" alt="pcpratheesh" /></p> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pcpratheesh&show_icons=true&locale=en&layout=compact" alt="pcpratheesh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcpratheesh&show_icons=true&locale=en" alt="pcpratheesh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pcpratheesh&" alt="pcpratheesh" /></p>
+
+
