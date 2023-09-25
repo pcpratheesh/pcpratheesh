@@ -10,8 +10,8 @@ See me on [Linkedin](https://www.linkedin.com/in/pratheesh-pc/)
 
 
 Interesting projects I've made:
-- [Go Health Check](https://github.com/pcpratheesh/go-healthwatch)
-- [Go Crypto](https://github.com/pcpratheesh/gocrypto)
+- [Go Health Check](https://github.com/pcpratheesh/go-healthwatch) <img src="https://img.shields.io/badge/-New-green" />
+- [Go Crypto](https://github.com/pcpratheesh/gocrypto) <img src="https://img.shields.io/badge/-New-green" />
 - [Profanity word filter with golang](https://github.com/pcpratheesh/go-censorword)
 - [Prometheus log monitor](https://github.com/pcpratheesh/golang-prometheus-example)
 - [Slack Connector](https://github.com/pcpratheesh/slack-connector)
@@ -19,8 +19,8 @@ Interesting projects I've made:
 - Docker Eye - A custom docker monitoring tool - In development
 
 Sample Code snippets 
-- [Rabbit MQ and Golang with SSE](https://github.com/pcpratheesh/rabbitmq-go-eda-tutorial)
-- [MQTT and Golang](https://github.com/pcpratheesh/mqtt-publisher-subscriber-golang)
+- [Rabbit MQ and Golang with SSE](https://github.com/pcpratheesh/rabbitmq-go-eda-tutorial) <img src="https://img.shields.io/badge/-New-green" />
+- [MQTT and Golang](https://github.com/pcpratheesh/mqtt-publisher-subscriber-golang) <img src="https://img.shields.io/badge/-New-green" />
 - [Golang -Prometheus Client-Server](https://github.com/pcpratheesh/goprom-server-client)
 - [Server Sent Event Progressbar](https://github.com/pcpratheesh/golang-sse-progress-bar)
 - [Sample code snippet With Golang for "**Connect with influxdb**"](https://github.com/pcpratheesh/golang-influxdb-example)
