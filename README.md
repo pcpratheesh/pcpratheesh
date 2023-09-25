@@ -10,23 +10,24 @@ See me on [Linkedin](https://www.linkedin.com/in/pratheesh-pc/)
 
 
 Interesting projects I've made:
-- Go Health Check ([Repo](https://github.com/pcpratheesh/go-healthwatch))
-- Go Crypto ([Repo](https://github.com/pcpratheesh/gocrypto))
-- Profanity word filter with golang ([here](https://github.com/pcpratheesh/go-censorword))
-- Prometheus log monitor ([Repo](https://github.com/pcpratheesh/golang-prometheus-example))
-- Slack Connector ([Repo](https://github.com/pcpratheesh/slack-connector))
-- Crypto currency Tracker([Repo](https://github.com/pcpratheesh/crypto-currency-tracker-api))
+- [Go Health Check](https://github.com/pcpratheesh/go-healthwatch)
+- [Go Crypto](https://github.com/pcpratheesh/gocrypto)
+- [Profanity word filter with golang](https://github.com/pcpratheesh/go-censorword)
+- [Prometheus log monitor](https://github.com/pcpratheesh/golang-prometheus-example)
+- [Slack Connector](https://github.com/pcpratheesh/slack-connector)
+- [Crypto currency Tracker](https://github.com/pcpratheesh/crypto-currency-tracker-api)
 - Docker Eye - A custom docker monitoring tool - In development
 
 Sample Code snippets 
-- MQTT and Golang ([Repo](https://github.com/pcpratheesh/mqtt-publisher-subscriber-golang))
-- Golang -Prometheus Client-Server ([Repo](https://github.com/pcpratheesh/goprom-server-client))
-- Server Sent Event Progressbar([Repo](https://github.com/pcpratheesh/golang-sse-progress-bar))
-- Sample code snippet With Golang for "**Connect with influxdb**" ([Repo](https://github.com/pcpratheesh/golang-influxdb-example))
-- Sample code snippet with Golang for "**Firebase authentication**" ([Repo](https://github.com/pcpratheesh/golang-firebase-example))
-- Sample code snippet with Golang for "**Kafka interaction**" ([Repo](https://github.com/pcpratheesh/golang-kafka-realtime-data-pipline))
-- Sample code snippet with Terraform for "**Deploying lambda**"([Repo](https://github.com/pcpratheesh/terraform-lambda-deployment-sample))
-- Sample code snippet with Terraform for "**Deploying ECS**"([Repo](https://github.com/pcpratheesh/terraform-ecs-deployment-sample))
+- [Rabbit MQ and Golang with SSE](https://github.com/pcpratheesh/rabbitmq-go-eda-tutorial)
+- [MQTT and Golang](https://github.com/pcpratheesh/mqtt-publisher-subscriber-golang)
+- [Golang -Prometheus Client-Server](https://github.com/pcpratheesh/goprom-server-client)
+- [Server Sent Event Progressbar](https://github.com/pcpratheesh/golang-sse-progress-bar)
+- [Sample code snippet With Golang for "**Connect with influxdb**"](https://github.com/pcpratheesh/golang-influxdb-example)
+- [Sample code snippet with Golang for "**Firebase authentication**"](https://github.com/pcpratheesh/golang-firebase-example)
+- [Sample code snippet with Golang for "**Kafka interaction**"](https://github.com/pcpratheesh/golang-kafka-realtime-data-pipline)
+- [Sample code snippet with Terraform for "**Deploying lambda**"](https://github.com/pcpratheesh/terraform-lambda-deployment-sample)
+- [Sample code snippet with Terraform for "**Deploying ECS**"](https://github.com/pcpratheesh/terraform-ecs-deployment-sample)
 <br>
 <h2>Tools & Technologies</h2>
 
