@@ -10,6 +10,7 @@ See me on [Linkedin](https://www.linkedin.com/in/pratheesh-pc/)
 
 
 Interesting projects I've made:
+- [IP access control middleware for Gin, echo and fiber web frameworks](https://github.com/pcpratheesh/ip-guard-middleware) <img src="https://img.shields.io/badge/-New-green" />
 - [Go Health Check](https://github.com/pcpratheesh/go-healthwatch) <img src="https://img.shields.io/badge/-New-green" />
 - [Go Crypto](https://github.com/pcpratheesh/gocrypto) <img src="https://img.shields.io/badge/-New-green" />
 - [Profanity word filter with golang](https://github.com/pcpratheesh/go-censorword)
@@ -19,6 +20,7 @@ Interesting projects I've made:
 - Docker Eye - A custom docker monitoring tool - In development
 
 Sample Code snippets 
+- [Video Streaming with fiber](https://github.com/pcpratheesh/go-fiber-video-stream-sample) <img src="https://img.shields.io/badge/-New-green" />
 - [Rabbit MQ and Golang with SSE](https://github.com/pcpratheesh/rabbitmq-go-eda-tutorial) <img src="https://img.shields.io/badge/-New-green" />
 - [MQTT and Golang](https://github.com/pcpratheesh/mqtt-publisher-subscriber-golang) <img src="https://img.shields.io/badge/-New-green" />
 - [Golang -Prometheus Client-Server](https://github.com/pcpratheesh/goprom-server-client)
